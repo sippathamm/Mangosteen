@@ -1,0 +1,5 @@
+.DS_Store
+.idea/
+Roundness/*
+Dataset/Audio/*
+Dataset/Image/*
