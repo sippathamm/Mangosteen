@@ -6,7 +6,7 @@ import cv2
 import os
 import csv
 
-date = '29-09-2023'
+date = '01-10-2023'
 dataset_directory = f'Dataset/Image/{date}'
 header = ['No.', 'Roundness']
 data = []

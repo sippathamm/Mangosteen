@@ -1,0 +1,3 @@
+,index,no,y_true,KNN,SVM,LR,DT,XGBoost,LightGBM,NN,RandomForest,Voting,Prediction Rate
+1,4.0,122.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+32,3.0,65.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1111111111111111

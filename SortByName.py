@@ -1,6 +1,6 @@
 import csv
 
-date = '29-09-2023'
+date = '01-10-2023'
 data = []
 
 with open('output.csv') as f:
